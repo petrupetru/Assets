@@ -1,0 +1,68 @@
+{
+    "hitsNeeded": {
+        "lesson_num": 0
+    },
+    "Miner": {
+        "checkpoints": [
+            {
+                "steps": 7499944,
+                "file_path": "Assets/results/202/Miner/Miner-7499944.onnx",
+                "reward": 0.4662499977275729,
+                "creation_time": 1682810334.7438464,
+                "auxillary_file_paths": [
+                    "Assets/results/202/Miner/Miner-7499944.pt"
+                ]
+            },
+            {
+                "steps": 7999984,
+                "file_path": "Assets/results/202/Miner/Miner-7999984.onnx",
+                "reward": 0.41041785052844454,
+                "creation_time": 1682812053.478448,
+                "auxillary_file_paths": [
+                    "Assets/results/202/Miner/Miner-7999984.pt"
+                ]
+            },
+            {
+                "steps": 8499984,
+                "file_path": "Assets/results/202/Miner/Miner-8499984.onnx",
+                "reward": 0.32142859045416117,
+                "creation_time": 1682813786.8028855,
+                "auxillary_file_paths": [
+                    "Assets/results/202/Miner/Miner-8499984.pt"
+                ]
+            },
+            {
+                "steps": 8999936,
+                "file_path": "Assets/results/202/Miner/Miner-8999936.onnx",
+                "reward": 0.3500834008057912,
+                "creation_time": 1682815510.3216085,
+                "auxillary_file_paths": [
+                    "Assets/results/202/Miner/Miner-8999936.pt"
+                ]
+            },
+            {
+                "steps": 9000064,
+                "file_path": "Assets/results/202/Miner/Miner-9000064.onnx",
+                "reward": 0.3500834008057912,
+                "creation_time": 1682815510.4779015,
+                "auxillary_file_paths": [
+                    "Assets/results/202/Miner/Miner-9000064.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 9000064,
+            "file_path": "Assets/results/202/Miner.onnx",
+            "reward": 0.3500834008057912,
+            "creation_time": 1682815510.4779015,
+            "auxillary_file_paths": [
+                "Assets/results/202/Miner/Miner-9000064.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.11.0+cu102"
+    }
+}

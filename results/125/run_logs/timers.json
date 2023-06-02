@@ -1,0 +1,47 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1682723260",
+        "python_version": "3.9.15 | packaged by conda-forge | (main, Nov 22 2022, 08:45:29) \n[GCC 10.4.0]",
+        "command_line_arguments": "/home/ec2-user/anaconda3/envs/pytorch_p39/bin/mlagents-learn config.yaml --run-id=125 --env= --no-graphics --num-envs=2 --resume",
+        "mlagents_version": "0.30.0",
+        "mlagents_envs_version": "0.30.0",
+        "communication_protocol_version": "1.5.0",
+        "pytorch_version": "1.11.0+cu102",
+        "numpy_version": "1.21.2",
+        "end_time_seconds": "1682723260"
+    },
+    "total": 0.07237709599985465,
+    "count": 1,
+    "self": 0.02463720200012176,
+    "children": {
+        "run_training.setup": {
+            "total": 0.03736981699989883,
+            "count": 1,
+            "self": 0.03736981699989883
+        },
+        "TrainerController.start_learning": {
+            "total": 0.010370076999834055,
+            "count": 1,
+            "self": 0.0008143459999701008,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 0.009524631999966005,
+                    "count": 1,
+                    "self": 0.009524631999966005
+                },
+                "trainer_threads": {
+                    "total": 1.6849999155965634e-06,
+                    "count": 1,
+                    "self": 1.6849999155965634e-06
+                },
+                "TrainerController._save_models": {
+                    "total": 2.9413999982352834e-05,
+                    "count": 1,
+                    "self": 2.9413999982352834e-05
+                }
+            }
+        }
+    }
+}

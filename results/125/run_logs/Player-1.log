@@ -1,0 +1,2181 @@
+Mono path[0] = '/home/ec2-user/SageMaker/builds/build2/build2_Data/Managed'
+Mono config path = '/home/ec2-user/SageMaker/builds/build2/build2_Data/MonoBleedingEdge/etc'
+Preloaded 'libgrpc_csharp_ext.x64.so'
+Initialize engine version: 2021.3.16f1 (4016570cf34f)
+[Subsystems] Discovering subsystems at path /home/ec2-user/SageMaker/builds/build2/build2_Data/UnitySubsystems
+Forcing GfxDevice: Null
+GfxDevice: creating device client; threaded=0; jobified=0
+NullGfxDevice:
+    Version:  NULL 1.0 [1.0]
+    Renderer: Null Device
+    Vendor:   Unity Technologies
+ALSA lib confmisc.c:767:(parse_card) cannot find card '0'
+ALSA lib conf.c:4554:(_snd_config_evaluate) function snd_func_card_driver returned error: No such file or directory
+ALSA lib confmisc.c:392:(snd_func_concat) error evaluating strings
+ALSA lib conf.c:4554:(_snd_config_evaluate) function snd_func_concat returned error: No such file or directory
+ALSA lib confmisc.c:1246:(snd_func_refer) error evaluating name
+ALSA lib conf.c:4554:(_snd_config_evaluate) function snd_func_refer returned error: No such file or directory
+ALSA lib conf.c:5033:(snd_config_expand) Evaluate error: No such file or directory
+ALSA lib pcm.c:2501:(snd_pcm_open_noupdate) Unknown PCM default
+FMOD failed to initialize the output device.: "Error initializing output device. " (60)
+Forced to initialize FMOD to to the device driver's system output rate 48000, this may impact performance and/or give inconsistent experiences compared to selected sample rate 48000
+ALSA lib confmisc.c:767:(parse_card) cannot find card '0'
+ALSA lib conf.c:4554:(_snd_config_evaluate) function snd_func_card_driver returned error: No such file or directory
+ALSA lib confmisc.c:392:(snd_func_concat) error evaluating strings
+ALSA lib conf.c:4554:(_snd_config_evaluate) function snd_func_concat returned error: No such file or directory
+ALSA lib confmisc.c:1246:(snd_func_refer) error evaluating name
+ALSA lib conf.c:4554:(_snd_config_evaluate) function snd_func_refer returned error: No such file or directory
+ALSA lib conf.c:5033:(snd_config_expand) Evaluate error: No such file or directory
+ALSA lib pcm.c:2501:(snd_pcm_open_noupdate) Unknown PCM default
+FMOD failed to initialize the output device.: "Error initializing output device. " (60)
+FMOD initialized on nosound output
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.124 seconds
+ERROR: Shader Sprites/Default shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Sprites/Mask shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Legacy Shaders/VertexLit shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Standard' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+ERROR: Shader Standard shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Standard' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+UnloadTime: 0.954680 ms
+DEBUG: 12
+DEBUG: 12
+requesting resize 84 x 84
+1 hits to go!
+3 hits to go!
+1 hits to go!
+0 hits to go!
+0 hits to go!
+score: 1
+3 hits to go!
+3 hits to go!
+2 hits to go!
+5 hits to go!
+2 hits to go!
+5 hits to go!
+5 hits to go!
+2 hits to go!
+1 hits to go!
+1 hits to go!
+0 hits to go!
+1 hits to go!
+score: 1
+score: 2
+4 hits to go!
+0 hits to go!
+score: 3
+0 hits to go!
+score: 2
+3 hits to go!
+2 hits to go!
+1 hits to go!
+0 hits to go!
+3 hits to go!
+score: 3
+9 hits to go!
+8 hits to go!
+score: 4
+score: 4
+score: 5
+2 hits to go!
+7 hits to go!
+6 hits to go!
+score: 5
+7 hits to go!
+1 hits to go!
+4 hits to go!
+0 hits to go!
+5 hits to go!
+score: 6
+5 hits to go!
+score: 7
+score: 8
+score: 9
+3 hits to go!
+4 hits to go!
+6 hits to go!
+4 hits to go!
+3 hits to go!
+2 hits to go!
+1 hits to go!
+3 hits to go!
+score: 6
+score: 7
+2 hits to go!
+2 hits to go!
+1 hits to go!
+1 hits to go!
+4 hits to go!
+3 hits to go!
+0 hits to go!
+score: 1
+score: 2
+score: 3
+score: 1
+2 hits to go!
+1 hits to go!
+5 hits to go!
+score: 4
+0 hits to go!
+score: 2
+score: 5
+4 hits to go!
+3 hits to go!
+2 hits to go!
+0 hits to go!
+0 hits to go!
+score: 3
+score: 4
+1 hits to go!
+score: 5
+0 hits to go!
+score: 6
+score: 7
+DEBUG: 12
+DEBUG: 12
+DEBUG: 14
+DEBUG: 14
+7 hits to go!
+7 hits to go!
+5 hits to go!
+7 hits to go!
+6 hits to go!
+6 hits to go!
+4 hits to go!
+1 hits to go!
+3 hits to go!
+2 hits to go!
+1 hits to go!
+5 hits to go!
+0 hits to go!
+score: 1
+score: 2
+score: 3
+5 hits to go!
+1 hits to go!
+3 hits to go!
+0 hits to go!
+score: 1
+score: 2
+score: 3
+4 hits to go!
+7 hits to go!
+6 hits to go!
+5 hits to go!
+6 hits to go!
+4 hits to go!
+3 hits to go!
+7 hits to go!
+3 hits to go!
+2 hits to go!
+1 hits to go!
+0 hits to go!
+score: 4
+score: 5
+score: 6
+0 hits to go!
+9 hits to go!
+score: 4
+2 hits to go!
+1 hits to go!
+3 hits to go!
+2 hits to go!
+score: 5
+1 hits to go!
+5 hits to go!
+0 hits to go!
+5 hits to go!
+4 hits to go!
+3 hits to go!
+0 hits to go!
+2 hits to go!
+6 hits to go!
+4 hits to go!
+2 hits to go!
+1 hits to go!
+8 hits to go!
+1 hits to go!
+3 hits to go!
+score: 7
+2 hits to go!
+0 hits to go!
+score: 8
+0 hits to go!
+4 hits to go!
+11 hits to go!
+3 hits to go!
+score: 1
+2 hits to go!
+score: 2
+score: 3
+9 hits to go!
+score: 1
+1 hits to go!
+0 hits to go!
+5 hits to go!
+score: 4
+score: 5
+score: 2
+score: 3
+4 hits to go!
+1 hits to go!
+3 hits to go!
+score: 4
+0 hits to go!
+score: 5
+score: 6
+score: 7
+2 hits to go!
+score: 8
+score: 6
+score: 7
+score: 8
+1 hits to go!
+8 hits to go!
+0 hits to go!
+7 hits to go!
+score: 9
+score: 10
+6 hits to go!
+score: 11
+5 hits to go!
+4 hits to go!
+3 hits to go!
+score: 9
+2 hits to go!
+1 hits to go!
+0 hits to go!
+score: 12
+score: 10
+score: 11
+score: 12
+score: 13
+DEBUG: 14
+DEBUG: 14
+DEBUG: 14
+DEBUG: 14
+7 hits to go!
+3 hits to go!
+5 hits to go!
+7 hits to go!
+3 hits to go!
+3 hits to go!
+9 hits to go!
+3 hits to go!
+8 hits to go!
+2 hits to go!
+1 hits to go!
+2 hits to go!
+0 hits to go!
+score: 1
+6 hits to go!
+2 hits to go!
+1 hits to go!
+5 hits to go!
+1 hits to go!
+9 hits to go!
+5 hits to go!
+4 hits to go!
+0 hits to go!
+score: 2
+8 hits to go!
+4 hits to go!
+6 hits to go!
+3 hits to go!
+3 hits to go!
+2 hits to go!
+4 hits to go!
+0 hits to go!
+score: 3
+7 hits to go!
+3 hits to go!
+1 hits to go!
+2 hits to go!
+0 hits to go!
+3 hits to go!
+2 hits to go!
+7 hits to go!
+2 hits to go!
+5 hits to go!
+4 hits to go!
+score: 4
+1 hits to go!
+5 hits to go!
+7 hits to go!
+0 hits to go!
+score: 5
+score: 1
+1 hits to go!
+2 hits to go!
+6 hits to go!
+5 hits to go!
+score: 2
+score: 3
+score: 4
+score: 5
+1 hits to go!
+3 hits to go!
+score: 6
+score: 7
+0 hits to go!
+score: 8
+score: 9
+score: 10
+score: 11
+6 hits to go!
+4 hits to go!
+0 hits to go!
+2 hits to go!
+1 hits to go!
+score: 6
+4 hits to go!
+5 hits to go!
+6 hits to go!
+score: 1
+5 hits to go!
+4 hits to go!
+3 hits to go!
+1 hits to go!
+2 hits to go!
+1 hits to go!
+4 hits to go!
+score: 2
+score: 3
+0 hits to go!
+3 hits to go!
+0 hits to go!
+0 hits to go!
+score: 4
+score: 5
+score: 6
+score: 7
+score: 1
+score: 2
+3 hits to go!
+2 hits to go!
+3 hits to go!
+2 hits to go!
+score: 3
+score: 4
+score: 5
+score: 6
+score: 7
+2 hits to go!
+1 hits to go!
+score: 8
+9 hits to go!
+1 hits to go!
+0 hits to go!
+DEBUG: 14
+DEBUG: 14
+DEBUG: 12
+DEBUG: 12
+1 hits to go!
+5 hits to go!
+3 hits to go!
+7 hits to go!
+7 hits to go!
+4 hits to go!
+3 hits to go!
+2 hits to go!
+1 hits to go!
+3 hits to go!
+0 hits to go!
+score: 1
+score: 2
+2 hits to go!
+2 hits to go!
+1 hits to go!
+0 hits to go!
+score: 1
+6 hits to go!
+5 hits to go!
+7 hits to go!
+7 hits to go!
+1 hits to go!
+4 hits to go!
+0 hits to go!
+1 hits to go!
+0 hits to go!
+score: 2
+0 hits to go!
+score: 3
+3 hits to go!
+3 hits to go!
+5 hits to go!
+5 hits to go!
+2 hits to go!
+1 hits to go!
+6 hits to go!
+6 hits to go!
+score: 3
+score: 4
+5 hits to go!
+4 hits to go!
+2 hits to go!
+3 hits to go!
+1 hits to go!
+2 hits to go!
+1 hits to go!
+0 hits to go!
+score: 5
+score: 6
+score: 7
+score: 8
+score: 9
+4 hits to go!
+0 hits to go!
+0 hits to go!
+3 hits to go!
+2 hits to go!
+1 hits to go!
+5 hits to go!
+score: 4
+score: 5
+score: 6
+score: 7
+6 hits to go!
+0 hits to go!
+score: 10
+score: 11
+score: 8
+score: 9
+score: 10
+5 hits to go!
+4 hits to go!
+3 hits to go!
+2 hits to go!
+score: 12
+score: 13
+score: 14
+score: 15
+4 hits to go!
+1 hits to go!
+score: 16
+0 hits to go!
+score: 17
+score: 18
+score: 11
+score: 12
+score: 13
+score: 14
+3 hits to go!
+score: 1
+score: 2
+score: 1
+4 hits to go!
+3 hits to go!
+score: 3
+2 hits to go!
+1 hits to go!
+0 hits to go!
+score: 4
+score: 5
+score: 6
+score: 7
+score: 8
+2 hits to go!
+1 hits to go!
+0 hits to go!
+score: 9
+score: 10
+score: 2
+score: 3
+score: 4
+score: 5
+score: 11
+score: 12
+score: 13
+score: 14
+score: 15
+score: 16
+DEBUG: 12
+DEBUG: 12
+DEBUG: 8
+DEBUG: 8
+1 hits to go!
+3 hits to go!
+5 hits to go!
+2 hits to go!
+0 hits to go!
+1 hits to go!
+0 hits to go!
+3 hits to go!
+3 hits to go!
+2 hits to go!
+3 hits to go!
+score: 1
+score: 2
+score: 3
+4 hits to go!
+1 hits to go!
+2 hits to go!
+1 hits to go!
+3 hits to go!
+3 hits to go!
+0 hits to go!
+2 hits to go!
+2 hits to go!
+1 hits to go!
+0 hits to go!
+score: 1
+1 hits to go!
+0 hits to go!
+score: 2
+score: 4
+0 hits to go!
+2 hits to go!
+score: 5
+score: 3
+1 hits to go!
+0 hits to go!
+score: 6
+score: 7
+score: 4
+score: 5
+score: 6
+score: 1
+1 hits to go!
+0 hits to go!
+score: 1
+score: 2
+score: 2
+DEBUG: 8
+DEBUG: 8
+DEBUG: 12
+DEBUG: 12
+5 hits to go!
+1 hits to go!
+5 hits to go!
+4 hits to go!
+7 hits to go!
+3 hits to go!
+2 hits to go!
+5 hits to go!
+7 hits to go!
+6 hits to go!
+4 hits to go!
+5 hits to go!
+7 hits to go!
+5 hits to go!
+3 hits to go!
+1 hits to go!
+0 hits to go!
+score: 1
+4 hits to go!
+0 hits to go!
+score: 2
+score: 3
+score: 4
+4 hits to go!
+4 hits to go!
+3 hits to go!
+2 hits to go!
+1 hits to go!
+2 hits to go!
+6 hits to go!
+3 hits to go!
+3 hits to go!
+1 hits to go!
+3 hits to go!
+2 hits to go!
+0 hits to go!
+6 hits to go!
+0 hits to go!
+score: 1
+score: 2
+5 hits to go!
+score: 5
+5 hits to go!
+4 hits to go!
+1 hits to go!
+4 hits to go!
+0 hits to go!
+score: 6
+score: 7
+3 hits to go!
+9 hits to go!
+3 hits to go!
+2 hits to go!
+2 hits to go!
+7 hits to go!
+2 hits to go!
+6 hits to go!
+score: 8
+1 hits to go!
+score: 9
+2 hits to go!
+8 hits to go!
+1 hits to go!
+1 hits to go!
+1 hits to go!
+0 hits to go!
+0 hits to go!
+0 hits to go!
+score: 3
+score: 10
+5 hits to go!
+0 hits to go!
+score: 4
+4 hits to go!
+score: 1
+7 hits to go!
+3 hits to go!
+score: 2
+score: 3
+2 hits to go!
+score: 4
+score: 5
+1 hits to go!
+1 hits to go!
+0 hits to go!
+score: 1
+score: 2
+score: 6
+score: 7
+score: 3
+score: 4
+6 hits to go!
+score: 8
+score: 9
+score: 10
+5 hits to go!
+0 hits to go!
+score: 11
+score: 5
+score: 6
+score: 7
+4 hits to go!
+3 hits to go!
+DEBUG: 12
+DEBUG: 12
+DEBUG: 12
+DEBUG: 12
+3 hits to go!
+5 hits to go!
+5 hits to go!
+7 hits to go!
+2 hits to go!
+5 hits to go!
+1 hits to go!
+0 hits to go!
+4 hits to go!
+3 hits to go!
+3 hits to go!
+2 hits to go!
+4 hits to go!
+3 hits to go!
+1 hits to go!
+0 hits to go!
+7 hits to go!
+3 hits to go!
+7 hits to go!
+score: 1
+4 hits to go!
+2 hits to go!
+6 hits to go!
+3 hits to go!
+7 hits to go!
+6 hits to go!
+6 hits to go!
+5 hits to go!
+1 hits to go!
+6 hits to go!
+5 hits to go!
+score: 1
+2 hits to go!
+0 hits to go!
+score: 2
+score: 3
+score: 4
+score: 5
+2 hits to go!
+1 hits to go!
+0 hits to go!
+score: 2
+4 hits to go!
+5 hits to go!
+2 hits to go!
+1 hits to go!
+1 hits to go!
+5 hits to go!
+0 hits to go!
+5 hits to go!
+4 hits to go!
+0 hits to go!
+score: 6
+3 hits to go!
+score: 7
+4 hits to go!
+4 hits to go!
+score: 3
+score: 4
+7 hits to go!
+3 hits to go!
+score: 8
+2 hits to go!
+3 hits to go!
+3 hits to go!
+score: 5
+score: 6
+2 hits to go!
+6 hits to go!
+score: 9
+score: 10
+4 hits to go!
+1 hits to go!
+5 hits to go!
+2 hits to go!
+1 hits to go!
+score: 7
+score: 8
+score: 9
+score: 11
+4 hits to go!
+0 hits to go!
+score: 10
+score: 1
+2 hits to go!
+0 hits to go!
+score: 1
+3 hits to go!
+1 hits to go!
+1 hits to go!
+score: 2
+2 hits to go!
+0 hits to go!
+0 hits to go!
+3 hits to go!
+2 hits to go!
+1 hits to go!
+1 hits to go!
+score: 2
+0 hits to go!
+score: 3
+score: 4
+score: 5
+score: 6
+0 hits to go!
+score: 7
+score: 8
+score: 9
+score: 10
+score: 11
+score: 12
+score: 13
+score: 3
+score: 4
+score: 5
+score: 6
+score: 14
+score: 15
+score: 16
+score: 17
+score: 7
+score: 18
+score: 19
+score: 20
+score: 21
+DEBUG: 12
+DEBUG: 12
+DEBUG: 14
+DEBUG: 14
+3 hits to go!
+5 hits to go!
+3 hits to go!
+2 hits to go!
+1 hits to go!
+0 hits to go!
+7 hits to go!
+7 hits to go!
+5 hits to go!
+7 hits to go!
+9 hits to go!
+6 hits to go!
+score: 1
+score: 2
+7 hits to go!
+3 hits to go!
+6 hits to go!
+5 hits to go!
+6 hits to go!
+4 hits to go!
+3 hits to go!
+5 hits to go!
+score: 1
+score: 2
+9 hits to go!
+9 hits to go!
+6 hits to go!
+4 hits to go!
+5 hits to go!
+4 hits to go!
+5 hits to go!
+4 hits to go!
+2 hits to go!
+4 hits to go!
+2 hits to go!
+1 hits to go!
+4 hits to go!
+3 hits to go!
+3 hits to go!
+3 hits to go!
+3 hits to go!
+2 hits to go!
+2 hits to go!
+2 hits to go!
+3 hits to go!
+8 hits to go!
+8 hits to go!
+3 hits to go!
+2 hits to go!
+1 hits to go!
+0 hits to go!
+score: 3
+2 hits to go!
+1 hits to go!
+7 hits to go!
+0 hits to go!
+score: 4
+8 hits to go!
+1 hits to go!
+1 hits to go!
+2 hits to go!
+score: 5
+score: 6
+2 hits to go!
+1 hits to go!
+0 hits to go!
+0 hits to go!
+1 hits to go!
+1 hits to go!
+6 hits to go!
+0 hits to go!
+0 hits to go!
+score: 7
+score: 8
+score: 9
+score: 10
+score: 3
+score: 4
+score: 5
+score: 6
+0 hits to go!
+score: 1
+score: 2
+score: 1
+score: 2
+score: 3
+score: 4
+score: 5
+0 hits to go!
+score: 3
+7 hits to go!
+score: 4
+score: 5
+score: 6
+score: 6
+score: 7
+score: 7
+score: 8
+score: 9
+score: 10
+6 hits to go!
+5 hits to go!
+4 hits to go!
+score: 11
+score: 8
+score: 9
+7 hits to go!
+11 hits to go!
+1 hits to go!
+score: 10
+score: 11
+5 hits to go!
+3 hits to go!
+6 hits to go!
+2 hits to go!
+score: 12
+4 hits to go!
+DEBUG: 14
+DEBUG: 14
+DEBUG: 14
+DEBUG: 14
+1 hits to go!
+0 hits to go!
+7 hits to go!
+5 hits to go!
+7 hits to go!
+5 hits to go!
+4 hits to go!
+3 hits to go!
+score: 1
+4 hits to go!
+5 hits to go!
+5 hits to go!
+7 hits to go!
+3 hits to go!
+9 hits to go!
+4 hits to go!
+2 hits to go!
+2 hits to go!
+3 hits to go!
+2 hits to go!
+1 hits to go!
+4 hits to go!
+5 hits to go!
+3 hits to go!
+9 hits to go!
+7 hits to go!
+1 hits to go!
+6 hits to go!
+0 hits to go!
+8 hits to go!
+0 hits to go!
+8 hits to go!
+6 hits to go!
+6 hits to go!
+3 hits to go!
+2 hits to go!
+2 hits to go!
+1 hits to go!
+1 hits to go!
+score: 2
+7 hits to go!
+1 hits to go!
+5 hits to go!
+5 hits to go!
+4 hits to go!
+6 hits to go!
+5 hits to go!
+score: 3
+6 hits to go!
+9 hits to go!
+4 hits to go!
+4 hits to go!
+3 hits to go!
+score: 1
+8 hits to go!
+0 hits to go!
+0 hits to go!
+5 hits to go!
+3 hits to go!
+2 hits to go!
+score: 4
+score: 5
+0 hits to go!
+1 hits to go!
+3 hits to go!
+2 hits to go!
+0 hits to go!
+score: 1
+score: 1
+4 hits to go!
+4 hits to go!
+7 hits to go!
+score: 2
+score: 3
+score: 4
+6 hits to go!
+score: 2
+3 hits to go!
+5 hits to go!
+1 hits to go!
+7 hits to go!
+6 hits to go!
+5 hits to go!
+3 hits to go!
+score: 5
+score: 6
+2 hits to go!
+1 hits to go!
+4 hits to go!
+score: 3
+score: 4
+score: 5
+2 hits to go!
+0 hits to go!
+3 hits to go!
+score: 7
+score: 8
+0 hits to go!
+score: 6
+1 hits to go!
+score: 9
+5 hits to go!
+4 hits to go!
+score: 10
+2 hits to go!
+score: 11
+score: 12
+score: 13
+2 hits to go!
+1 hits to go!
+0 hits to go!
+score: 14
+3 hits to go!
+score: 7
+score: 8
+score: 9
+4 hits to go!
+3 hits to go!
+score: 10
+score: 11
+1 hits to go!
+2 hits to go!
+DEBUG: 14
+DEBUG: 14
+DEBUG: 16
+DEBUG: 16
+5 hits to go!
+7 hits to go!
+7 hits to go!
+5 hits to go!
+3 hits to go!
+5 hits to go!
+9 hits to go!
+7 hits to go!
+2 hits to go!
+3 hits to go!
+6 hits to go!
+4 hits to go!
+3 hits to go!
+2 hits to go!
+1 hits to go!
+9 hits to go!
+8 hits to go!
+7 hits to go!
+6 hits to go!
+5 hits to go!
+5 hits to go!
+4 hits to go!
+5 hits to go!
+0 hits to go!
+1 hits to go!
+3 hits to go!
+8 hits to go!
+7 hits to go!
+0 hits to go!
+score: 1
+4 hits to go!
+6 hits to go!
+4 hits to go!
+3 hits to go!
+3 hits to go!
+4 hits to go!
+4 hits to go!
+score: 2
+2 hits to go!
+7 hits to go!
+score: 1
+1 hits to go!
+2 hits to go!
+9 hits to go!
+6 hits to go!
+5 hits to go!
+2 hits to go!
+2 hits to go!
+1 hits to go!
+3 hits to go!
+6 hits to go!
+1 hits to go!
+6 hits to go!
+9 hits to go!
+5 hits to go!
+1 hits to go!
+2 hits to go!
+5 hits to go!
+8 hits to go!
+0 hits to go!
+score: 3
+7 hits to go!
+4 hits to go!
+1 hits to go!
+0 hits to go!
+0 hits to go!
+score: 4
+0 hits to go!
+score: 5
+score: 6
+score: 7
+0 hits to go!
+score: 8
+3 hits to go!
+5 hits to go!
+4 hits to go!
+3 hits to go!
+score: 2
+score: 3
+score: 4
+2 hits to go!
+11 hits to go!
+score: 1
+score: 1
+4 hits to go!
+3 hits to go!
+score: 2
+4 hits to go!
+score: 2
+6 hits to go!
+2 hits to go!
+1 hits to go!
+0 hits to go!
+score: 3
+2 hits to go!
+8 hits to go!
+1 hits to go!
+3 hits to go!
+score: 3
+score: 4
+2 hits to go!
+1 hits to go!
+score: 5
+5 hits to go!
+0 hits to go!
+0 hits to go!
+1 hits to go!
+0 hits to go!
+10 hits to go!
+9 hits to go!
+3 hits to go!
+DEBUG: 16
+DEBUG: 16
+DEBUG: 8
+DEBUG: 8
+1 hits to go!
+0 hits to go!
+1 hits to go!
+5 hits to go!
+score: 1
+score: 2
+score: 3
+score: 4
+1 hits to go!
+1 hits to go!
+3 hits to go!
+4 hits to go!
+3 hits to go!
+0 hits to go!
+2 hits to go!
+1 hits to go!
+0 hits to go!
+2 hits to go!
+1 hits to go!
+score: 5
+score: 1
+score: 2
+3 hits to go!
+3 hits to go!
+0 hits to go!
+score: 6
+score: 7
+0 hits to go!
+2 hits to go!
+2 hits to go!
+0 hits to go!
+score: 3
+1 hits to go!
+1 hits to go!
+0 hits to go!
+score: 4
+score: 8
+score: 9
+0 hits to go!
+score: 10
+score: 11
+score: 12
+score: 13
+score: 14
+score: 5
+DEBUG: 8
+DEBUG: 8
+DEBUG: 16
+DEBUG: 16
+5 hits to go!
+5 hits to go!
+4 hits to go!
+11 hits to go!
+9 hits to go!
+3 hits to go!
+7 hits to go!
+9 hits to go!
+2 hits to go!
+7 hits to go!
+9 hits to go!
+4 hits to go!
+3 hits to go!
+5 hits to go!
+2 hits to go!
+8 hits to go!
+1 hits to go!
+0 hits to go!
+6 hits to go!
+5 hits to go!
+9 hits to go!
+8 hits to go!
+6 hits to go!
+7 hits to go!
+6 hits to go!
+3 hits to go!
+11 hits to go!
+7 hits to go!
+5 hits to go!
+4 hits to go!
+score: 1
+score: 2
+4 hits to go!
+2 hits to go!
+6 hits to go!
+3 hits to go!
+score: 1
+score: 2
+11 hits to go!
+1 hits to go!
+5 hits to go!
+4 hits to go!
+3 hits to go!
+2 hits to go!
+1 hits to go!
+3 hits to go!
+2 hits to go!
+8 hits to go!
+1 hits to go!
+7 hits to go!
+0 hits to go!
+5 hits to go!
+score: 3
+2 hits to go!
+score: 4
+5 hits to go!
+8 hits to go!
+1 hits to go!
+0 hits to go!
+0 hits to go!
+5 hits to go!
+10 hits to go!
+score: 5
+0 hits to go!
+4 hits to go!
+score: 3
+9 hits to go!
+7 hits to go!
+score: 4
+score: 5
+score: 6
+score: 7
+score: 8
+3 hits to go!
+1 hits to go!
+0 hits to go!
+score: 9
+score: 10
+6 hits to go!
+score: 11
+4 hits to go!
+5 hits to go!
+3 hits to go!
+8 hits to go!
+4 hits to go!
+7 hits to go!
+3 hits to go!
+6 hits to go!
+10 hits to go!
+4 hits to go!
+4 hits to go!
+score: 1
+score: 2
+score: 3
+score: 4
+score: 5
+5 hits to go!
+2 hits to go!
+2 hits to go!
+1 hits to go!
+5 hits to go!
+4 hits to go!
+score: 1
+2 hits to go!
+1 hits to go!
+score: 2
+score: 3
+0 hits to go!
+3 hits to go!
+0 hits to go!
+1 hits to go!
+0 hits to go!
+3 hits to go!
+score: 6
+score: 7
+score: 8
+score: 4
+score: 5
+score: 9
+score: 10
+2 hits to go!
+6 hits to go!
+2 hits to go!
+3 hits to go!
+4 hits to go!
+1 hits to go!
+2 hits to go!
+1 hits to go!
+score: 11
+score: 12
+score: 13
+score: 14
+score: 15
+0 hits to go!
+3 hits to go!
+2 hits to go!
+1 hits to go!
+score: 6
+score: 7
+score: 8
+5 hits to go!
+0 hits to go!
+1 hits to go!
+DEBUG: 16
+DEBUG: 16
+DEBUG: 10
+DEBUG: 10
+1 hits to go!
+3 hits to go!
+2 hits to go!
+5 hits to go!
+4 hits to go!
+7 hits to go!
+5 hits to go!
+5 hits to go!
+4 hits to go!
+5 hits to go!
+1 hits to go!
+6 hits to go!
+1 hits to go!
+4 hits to go!
+3 hits to go!
+3 hits to go!
+2 hits to go!
+1 hits to go!
+0 hits to go!
+4 hits to go!
+0 hits to go!
+2 hits to go!
+score: 1
+3 hits to go!
+5 hits to go!
+score: 2
+score: 3
+4 hits to go!
+3 hits to go!
+3 hits to go!
+2 hits to go!
+1 hits to go!
+2 hits to go!
+score: 4
+2 hits to go!
+3 hits to go!
+1 hits to go!
+0 hits to go!
+0 hits to go!
+0 hits to go!
+score: 1
+score: 2
+score: 3
+score: 4
+2 hits to go!
+1 hits to go!
+1 hits to go!
+0 hits to go!
+1 hits to go!
+0 hits to go!
+0 hits to go!
+score: 5
+score: 6
+score: 5
+score: 6
+3 hits to go!
+score: 7
+score: 8
+score: 9
+score: 10
+score: 7
+score: 8
+score: 9
+score: 10
+0 hits to go!
+2 hits to go!
+1 hits to go!
+0 hits to go!
+score: 1
+score: 2
+score: 1
+score: 2
+score: 3
+score: 4
+score: 5
+score: 3
+score: 6
+score: 4
+score: 5
+score: 6
+score: 7
+score: 8
+score: 9
+score: 10
+score: 11
+score: 12
+score: 13
+DEBUG: 10
+DEBUG: 10
+DEBUG: 10
+DEBUG: 10
+5 hits to go!
+3 hits to go!
+5 hits to go!
+4 hits to go!
+5 hits to go!
+3 hits to go!
+5 hits to go!
+5 hits to go!
+4 hits to go!
+7 hits to go!
+4 hits to go!
+6 hits to go!
+5 hits to go!
+4 hits to go!
+2 hits to go!
+4 hits to go!
+3 hits to go!
+2 hits to go!
+3 hits to go!
+5 hits to go!
+3 hits to go!
+2 hits to go!
+3 hits to go!
+3 hits to go!
+1 hits to go!
+1 hits to go!
+4 hits to go!
+1 hits to go!
+2 hits to go!
+1 hits to go!
+2 hits to go!
+0 hits to go!
+1 hits to go!
+2 hits to go!
+score: 1
+2 hits to go!
+4 hits to go!
+0 hits to go!
+score: 2
+3 hits to go!
+1 hits to go!
+0 hits to go!
+0 hits to go!
+1 hits to go!
+score: 1
+2 hits to go!
+0 hits to go!
+score: 2
+score: 3
+0 hits to go!
+1 hits to go!
+0 hits to go!
+score: 4
+score: 5
+1 hits to go!
+0 hits to go!
+score: 3
+score: 6
+3 hits to go!
+2 hits to go!
+score: 4
+score: 5
+1 hits to go!
+0 hits to go!
+score: 6
+score: 7
+score: 8
+score: 9
+score: 10
+0 hits to go!
+score: 11
+score: 12
+score: 13
+score: 14
+score: 15
+score: 16
+score: 17
+score: 18
+score: 7
+score: 19
+score: 1
+score: 2
+score: 3
+score: 4
+score: 5
+score: 1
+score: 6
+score: 7
+score: 2
+DEBUG: 10
+DEBUG: 10
+DEBUG: 8
+DEBUG: 8
+5 hits to go!
+4 hits to go!
+5 hits to go!
+5 hits to go!
+3 hits to go!
+2 hits to go!
+3 hits to go!
+2 hits to go!
+3 hits to go!
+4 hits to go!
+1 hits to go!
+0 hits to go!
+4 hits to go!
+3 hits to go!
+3 hits to go!
+2 hits to go!
+1 hits to go!
+3 hits to go!
+0 hits to go!
+1 hits to go!
+0 hits to go!
+3 hits to go!
+2 hits to go!
+1 hits to go!
+2 hits to go!
+2 hits to go!
+1 hits to go!
+0 hits to go!
+0 hits to go!
+score: 1
+score: 2
+1 hits to go!
+0 hits to go!
+score: 3
+score: 1
+score: 4
+score: 5
+score: 6
+score: 7
+score: 8
+score: 9
+score: 10
+score: 2
+score: 3
+2 hits to go!
+1 hits to go!
+0 hits to go!
+score: 4
+score: 5
+score: 11
+1 hits to go!
+0 hits to go!
+score: 12
+score: 13
+score: 14
+score: 15
+score: 1
+score: 2
+score: 3
+score: 4
+score: 5
+score: 6
+DEBUG: 8
+DEBUG: 8
+DEBUG: 8
+DEBUG: 8
+1 hits to go!
+3 hits to go!
+3 hits to go!
+0 hits to go!
+1 hits to go!
+2 hits to go!
+3 hits to go!
+2 hits to go!
+5 hits to go!
+2 hits to go!
+1 hits to go!
+1 hits to go!
+0 hits to go!
+score: 1
+1 hits to go!
+3 hits to go!
+4 hits to go!
+score: 1
+0 hits to go!
+score: 2
+0 hits to go!
+score: 2
+3 hits to go!
+2 hits to go!
+0 hits to go!
+1 hits to go!
+2 hits to go!
+1 hits to go!
+0 hits to go!
+0 hits to go!
+5 hits to go!
+4 hits to go!
+3 hits to go!
+score: 3
+score: 4
+score: 5
+score: 3
+score: 4
+2 hits to go!
+1 hits to go!
+score: 6
+score: 5
+0 hits to go!
+score: 7
+score: 8
+score: 9
+score: 10
+score: 6
+score: 7
+score: 1
+score: 1
+DEBUG: 8
+DEBUG: 8
+DEBUG: 14
+DEBUG: 14
+3 hits to go!
+7 hits to go!
+9 hits to go!
+8 hits to go!
+1 hits to go!
+3 hits to go!
+6 hits to go!
+7 hits to go!
+5 hits to go!
+3 hits to go!
+9 hits to go!
+6 hits to go!
+2 hits to go!
+3 hits to go!
+2 hits to go!
+8 hits to go!
+1 hits to go!
+0 hits to go!
+score: 1
+1 hits to go!
+0 hits to go!
+5 hits to go!
+3 hits to go!
+5 hits to go!
+2 hits to go!
+2 hits to go!
+1 hits to go!
+4 hits to go!
+0 hits to go!
+score: 1
+5 hits to go!
+4 hits to go!
+4 hits to go!
+7 hits to go!
+7 hits to go!
+2 hits to go!
+3 hits to go!
+1 hits to go!
+4 hits to go!
+3 hits to go!
+6 hits to go!
+3 hits to go!
+2 hits to go!
+6 hits to go!
+3 hits to go!
+1 hits to go!
+1 hits to go!
+5 hits to go!
+0 hits to go!
+0 hits to go!
+0 hits to go!
+score: 2
+score: 3
+score: 4
+score: 5
+2 hits to go!
+score: 2
+4 hits to go!
+score: 3
+score: 4
+score: 5
+0 hits to go!
+3 hits to go!
+score: 6
+1 hits to go!
+score: 7
+score: 8
+score: 9
+score: 6
+score: 7
+0 hits to go!
+score: 10
+score: 11
+score: 12
+5 hits to go!
+2 hits to go!
+score: 1
+2 hits to go!
+4 hits to go!
+1 hits to go!
+3 hits to go!
+2 hits to go!
+score: 1
+1 hits to go!
+1 hits to go!
+0 hits to go!
+0 hits to go!
+0 hits to go!
+2 hits to go!
+score: 2
+score: 3
+score: 4
+score: 5
+score: 6
+score: 7
+score: 8
+score: 2
+1 hits to go!
+score: 3
+score: 9
+score: 4
+score: 5
+score: 6
+0 hits to go!
+7 hits to go!
+9 hits to go!
+DEBUG: 14
+DEBUG: 14
+DEBUG: 16
+DEBUG: 16
+3 hits to go!
+7 hits to go!
+3 hits to go!
+2 hits to go!
+3 hits to go!
+7 hits to go!
+1 hits to go!
+7 hits to go!
+2 hits to go!
+6 hits to go!
+2 hits to go!
+1 hits to go!
+11 hits to go!
+1 hits to go!
+0 hits to go!
+0 hits to go!
+5 hits to go!
+5 hits to go!
+6 hits to go!
+score: 1
+4 hits to go!
+0 hits to go!
+7 hits to go!
+3 hits to go!
+2 hits to go!
+5 hits to go!
+score: 1
+5 hits to go!
+6 hits to go!
+4 hits to go!
+4 hits to go!
+4 hits to go!
+3 hits to go!
+2 hits to go!
+1 hits to go!
+3 hits to go!
+2 hits to go!
+6 hits to go!
+1 hits to go!
+7 hits to go!
+0 hits to go!
+score: 2
+6 hits to go!
+0 hits to go!
+3 hits to go!
+1 hits to go!
+score: 2
+score: 3
+score: 4
+score: 5
+score: 6
+5 hits to go!
+2 hits to go!
+9 hits to go!
+4 hits to go!
+score: 3
+score: 4
+1 hits to go!
+0 hits to go!
+5 hits to go!
+score: 5
+5 hits to go!
+score: 7
+score: 8
+0 hits to go!
+9 hits to go!
+score: 9
+score: 6
+score: 7
+score: 8
+score: 9
+8 hits to go!
+8 hits to go!
+3 hits to go!
+5 hits to go!
+score: 1
+score: 2
+9 hits to go!
+4 hits to go!
+2 hits to go!
+score: 3
+7 hits to go!
+score: 4
+score: 5
+6 hits to go!
+7 hits to go!
+11 hits to go!
+score: 6
+5 hits to go!
+4 hits to go!
+4 hits to go!
+score: 1
+score: 2
+10 hits to go!
+score: 7
+score: 3
+3 hits to go!
+2 hits to go!
+4 hits to go!
+3 hits to go!
+2 hits to go!
+1 hits to go!
+6 hits to go!
+1 hits to go!
+1 hits to go!
+0 hits to go!
+3 hits to go!
+9 hits to go!
+0 hits to go!
+5 hits to go!
+0 hits to go!
+2 hits to go!
+3 hits to go!
+1 hits to go!
+0 hits to go!
+DEBUG: 16
+DEBUG: 16
+DEBUG: 12
+DEBUG: 12
+3 hits to go!
+5 hits to go!
+3 hits to go!
+7 hits to go!
+1 hits to go!
+6 hits to go!
+7 hits to go!
+5 hits to go!
+2 hits to go!
+4 hits to go!
+1 hits to go!
+7 hits to go!
+0 hits to go!
+2 hits to go!
+3 hits to go!
+1 hits to go!
+6 hits to go!
+0 hits to go!
+3 hits to go!
+2 hits to go!
+3 hits to go!
+score: 1
+score: 2
+1 hits to go!
+3 hits to go!
+2 hits to go!
+score: 3
+0 hits to go!
+2 hits to go!
+5 hits to go!
+2 hits to go!
+6 hits to go!
+4 hits to go!
+9 hits to go!
+7 hits to go!
+score: 4
+score: 5
+0 hits to go!
+6 hits to go!
+score: 1
+score: 2
+score: 3
+score: 4
+1 hits to go!
+0 hits to go!
+score: 5
+1 hits to go!
+0 hits to go!
+1 hits to go!
+score: 6
+5 hits to go!
+4 hits to go!
+4 hits to go!
+score: 7
+0 hits to go!
+score: 8
+score: 9
+8 hits to go!
+7 hits to go!
+3 hits to go!
+5 hits to go!
+score: 6
+6 hits to go!
+score: 7
+score: 1
+5 hits to go!
+score: 1
+3 hits to go!
+score: 2
+4 hits to go!
+2 hits to go!
+4 hits to go!
+3 hits to go!
+1 hits to go!
+3 hits to go!
+3 hits to go!
+0 hits to go!
+score: 3
+2 hits to go!
+2 hits to go!
+2 hits to go!
+1 hits to go!
+1 hits to go!
+0 hits to go!
+1 hits to go!
+0 hits to go!
+score: 4
+score: 2
+score: 5
+score: 3
+2 hits to go!
+Setting up 1 worker threads for Enlighten.
+Memory Statistics:
+[ALLOC_TEMP_TLS] TLS Allocator
+  StackAllocators : 
+    [ALLOC_TEMP_MAIN]
+      Peak usage frame count: [0-1.0 KB]: 10378 frames, [1.0 KB-2.0 KB]: 4 frames, [2.0 KB-4.0 KB]: 213 frames, [2.0 MB-4.0 MB]: 1 frames
+      Initial Block Size 4.0 MB
+      Current Block Size 4.0 MB
+      Peak Allocated Bytes 2.1 MB
+      Overflow Count 0
+    [ALLOC_TEMP_Loading.AsyncRead]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 128 B
+      Overflow Count 0
+    [ALLOC_TEMP_Loading.PreloadManager]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 93.8 KB
+      Overflow Count 4
+    [ALLOC_TEMP_Background Job.Worker 8]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 9]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 0]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 0.6 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 10]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 14]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 6]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 12]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_EnlightenWorker]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 15]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 1]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 2]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 7]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_AssetGarbageCollectorHelper]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 5]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 13]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 11]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 3]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 0]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 4]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_BatchDeleteObjects]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+[ALLOC_DEFAULT] Dual Thread Allocator
+  Peak main deferred allocation count 127
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 1.0 MB
+    [ALLOC_DEFAULT_MAIN]
+      Peak usage frame count: [4.0 MB-8.0 MB]: 10596 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 1
+      Peak Allocated memory 4.8 MB
+      Peak Large allocation bytes 0 B
+    [ALLOC_DEFAULT_THREAD]
+      Peak usage frame count: [16.0 MB-32.0 MB]: 10596 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 1
+      Peak Allocated memory 17.2 MB
+      Peak Large allocation bytes 16.0 MB
+[ALLOC_TEMP_JOB_1_FRAME]
+  Initial Block Size 2.0 MB
+  Used Block Count 1
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_2_FRAMES]
+  Initial Block Size 2.0 MB
+  Used Block Count 1
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_4_FRAMES (JobTemp)]
+  Initial Block Size 2.0 MB
+  Used Block Count 2
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_ASYNC (Background)]
+  Initial Block Size 1.0 MB
+  Used Block Count 3
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_GFX] Dual Thread Allocator
+  Peak main deferred allocation count 0
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 1.0 MB
+    [ALLOC_GFX_MAIN]
+      Peak usage frame count: [32.0 KB-64.0 KB]: 10595 frames, [64.0 KB-128.0 KB]: 1 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 1
+      Peak Allocated memory 65.6 KB
+      Peak Large allocation bytes 0 B
+    [ALLOC_GFX_THREAD]
+      Peak usage frame count: [32.0 KB-64.0 KB]: 10596 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 1
+      Peak Allocated memory 38.0 KB
+      Peak Large allocation bytes 0 B
+[ALLOC_CACHEOBJECTS] Dual Thread Allocator
+  Peak main deferred allocation count 0
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 1.0 MB
+    [ALLOC_CACHEOBJECTS_MAIN]
+      Peak usage frame count: [0.5 MB-1.0 MB]: 10596 frames
+      Requested Block Size 4.0 MB
+      Peak Block count 1
+      Peak Allocated memory 0.8 MB
+      Peak Large allocation bytes 0 B
+    [ALLOC_CACHEOBJECTS_THREAD]
+      Peak usage frame count: [64.0 KB-128.0 KB]: 10595 frames, [0.5 MB-1.0 MB]: 1 frames
+      Requested Block Size 4.0 MB
+      Peak Block count 1
+      Peak Allocated memory 0.8 MB
+      Peak Large allocation bytes 0 B
+[ALLOC_TYPETREE] Dual Thread Allocator
+  Peak main deferred allocation count 0
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 1.0 MB
+    [ALLOC_TYPETREE_MAIN]
+      Peak usage frame count: [0-1.0 KB]: 10596 frames
+      Requested Block Size 2.0 MB
+      Peak Block count 1
+      Peak Allocated memory 1.0 KB
+      Peak Large allocation bytes 0 B
+    [ALLOC_TYPETREE_THREAD]
+      Peak usage frame count: [0-1.0 KB]: 10596 frames
+      Requested Block Size 2.0 MB
+      Peak Block count 0
+      Peak Allocated memory 0 B
+      Peak Large allocation bytes 0 B
